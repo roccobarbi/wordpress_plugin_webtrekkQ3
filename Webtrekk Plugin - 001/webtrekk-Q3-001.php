@@ -4,7 +4,8 @@ Plugin Name: Webtrekk Q3 001
 Description: Dynamically populates the Webtrekk Q3 pixel code.
 Author: Rocco Barbini
 Author URI: www.barbinirocco.com
-Version: 1.0.0
+Disclaimer: This is my own original work and Webtrekk Gmbh has not in any capacity endorsed or reviewed it, doesn’t guarantee it and can’t be hold liable for any damange eventually caused by the use of this plugin. As a private citizen, I offer this plugin as is and I don't guarantee it. You can install it at your own risk and I can't be hold liable for any damage that this may cause.
+Version: 1.0.2
 */
 
 /*
